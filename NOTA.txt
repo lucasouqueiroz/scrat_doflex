@@ -1,0 +1,1 @@
+Observação: o arquivo .nojekyll foi removido desta versão para evitar a mensagem de arquivo oculto no GitHub. O projeto permanece pronto para publicação com os arquivos principais index.html e README.md.
